@@ -18,7 +18,9 @@ Some of the features include extended Markdown based rich editing support, auto-
 And the best part? The app is just 5 MB! Surprised? with its Rust core, it's blazing fast, secure, and memory-efficient — because we are not giving you a Chromium browser under the hood. 💥</div><div class="mt-8"></div>
 
 
-<img src="/assets/demo.gif" width="550px">
+<img src="/assets/demo.gif" width="550px" class="rounded-xl border-2 border-gray-100">
+
+<div class="mt-8"></div>
 
     <div class="flex sm:flex-row flex-col sm:space-x-3 sm:space-y-0 space-y-4 "><div>
       <div
