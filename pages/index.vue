@@ -32,6 +32,8 @@ And the best part? The app is just 5 MB! Surprised? with its Rust core, it's bla
   
   </div>
 
+  <div class="text-lg text-gray-400 pt-6">All rights reserved © Naveed Azhar 2024</div>
+
   </div>
 </template>
 
