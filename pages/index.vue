@@ -1,5 +1,5 @@
 <template>
-  <div class="flex flex-col p-10 sm:p-20 space-y-4">
+  <div class="flex flex-col p-10 sm:p-20 space-y-4 text-black">
 
     <img src="/assets/logo.svg" width="70px">
 
