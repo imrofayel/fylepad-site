@@ -11,6 +11,8 @@
 
     <img src="/assets/line.svg" class="relative left-[5rem] -top-4" width="80px">
 
+    <a href="https://www.producthunt.com/posts/fylepad?embed=true&utm_source=badge-featured&utm_medium=badge&utm_souce=badge-fylepad" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=491117&theme=light" alt="fylepad - your&#0032;perfect&#0032;note&#0045;taking&#0032;solution&#0033; | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" /></a>
+
     <div class="text-lg">Sometimes, you want more than what you already have and sometimes little less. There are apps that are too complex for simple tasks, and some are too simple to even make a to-do list. So, 'Your savior is here!'.<div class="mt-4"></div>
 
 Some of the features include extended Markdown based rich editing support, auto-save state so you can close the app anytime, and next time everything will still be there. You can export and import your notes in PDF, Markdown as well, tabs to support opening many notes at the same time and a spell checker.<div class="mt-4"></div>
