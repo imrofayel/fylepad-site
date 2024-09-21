@@ -27,7 +27,7 @@ And the best part? The app is just 5 MB! Surprised? with its Rust core, it's bla
     <div class="flex sm:flex-row flex-col sm:space-x-3 sm:space-y-0 space-y-4 "><div>
       <div
         class="text-lg inline-block bg-black text-white border-transparent backdrop-blur-xl p-2 px-3 rounded-full justify-center items-center cursor-pointer roboto-mono">
-        <a href="https://github.com/imrofayel/fylepad/releases/download/Windows/fyelpad_0.1.0_x64_en-US.msi" class="roboto-mono flex space-x-1"><svg xmlns="http://www.w3.org/2000/svg" width="22" viewBox="0 0 24 24"><path fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 5v14m7-7l-7 7l-7-7"/></svg><span>Download</span></a></div>
+        <a href="https://github.com/imrofayel/fylepad/releases/download/Windows/fyelpad_0.1.0_x64-setup.exe" class="roboto-mono flex space-x-1"><svg xmlns="http://www.w3.org/2000/svg" width="22" viewBox="0 0 24 24"><path fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 5v14m7-7l-7 7l-7-7"/></svg><span>Download</span></a></div>
     </div>
 
     <div><a href="https://github.com/imrofayel/fylepad/"><div class="text-base inline-block bg-gray-50 hover:bg-white hover:bg-white/80 border-gray-100 border backdrop-blur-xl p-2 rounded-xl justify-center items-center text-black/80 cursor-pointer roboto-mono">github.com/imrofayel/fylepad</div></a></div>
