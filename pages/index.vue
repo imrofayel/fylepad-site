@@ -3,32 +3,32 @@
 
     <img src="/assets/logo.svg" width="70px">
 
-    <div class="text-2xl text-black/80 dark:text-white/90">fylepad — your perfect note-taking solution!
+    <div class="text-3xl text-black">fylepad — your perfect note-taking solution!
     </div>
 
-    <div class="text-lg text-black/80 dark:text-white/90">by <a href="https://github.com/RofayelLabs">Rofayel Labs</a>.
+    <div class="text-xl text-black">by <a href="https://github.com/RofayelLabs">Rofayel Labs</a>.
     </div>
 
-    <img src="/assets/line.svg" class="relative left-[5rem] -top-4" width="70px">
+    <img src="/assets/line.svg" class="relative left-[5rem] -top-4" width="80px">
 
-    <div class="flex space-x-3"><div>
+    <div class="text-lg">Sometimes, you want more than what you already have and sometimes little less. There are apps that are too complex for simple tasks, and some are too simple to even make a to-do list. So, 'Your savior is here!'.<div class="mt-4"></div>
+
+Some of the features include extended Markdown based rich editing support, auto-save state so you can close the app anytime, and next time everything will still be there. You can export and import your notes in PDF, Markdown as well, tabs to support opening many notes at the same time and a spell checker.<div class="mt-4"></div>
+
+And the best part? The app is just 5 MB! Surprised? with its Rust core, it's blazing fast, secure, and memory-efficient — because we are not giving you a Chromium browser under the hood. 💥</div><div class="mt-8"></div>
+
+
+<img src="/assets/demo.gif" width="550px">
+
+    <div class="flex sm:flex-row flex-col sm:space-x-3 sm:space-y-0 space-y-4 "><div>
       <div
         class="text-lg inline-block bg-[#2d3d33] text-white bg-[#1f2920] border-transparent backdrop-blur-xl p-2 px-3 rounded-full justify-center items-center cursor-pointer roboto-mono">
         <a href="https://github.com/imrofayel/fylepad/releases/download/Windows/fyelpad_0.1.0_x64_en-US.msi" class="roboto-mono flex space-x-1"><svg xmlns="http://www.w3.org/2000/svg" width="22" viewBox="0 0 24 24"><path fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 5v14m7-7l-7 7l-7-7"/></svg><span>Download</span></a></div>
     </div>
 
-    <div>
-      <div
-        class="text-lg inline-block bg-[#2d3d33] text-white bg-[#1f2920] border-transparent backdrop-blur-xl p-2 rounded-xl justify-center items-center cursor-pointer roboto-mono">
-        <a href="https://github.com/imrofayel/fylepad" class="roboto-mono flex space-x-1"><svg
-            xmlns="http://www.w3.org/2000/svg" width="22" viewBox="0 0 24 24">
-            <g fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2">
-              <path
-                d="M15 22v-4a4.8 4.8 0 0 0-1-3.5c3 0 6-2 6-5.5c.08-1.25-.27-2.48-1-3.5c.28-1.15.28-2.35 0-3.5c0 0-1 0-3 1.5c-2.64-.5-5.36-.5-8 0C6 2 5 2 5 2c-.3 1.15-.3 2.35 0 3.5A5.4 5.4 0 0 0 4 9c0 3.5 3 5.5 6 5.5c-.39.49-.68 1.05-.85 1.65S8.93 17.38 9 18v4" />
-              <path d="M9 18c-4.51 2-5-2-7-2" />
-            </g>
-          </svg><span>Github</span></a></div>
-    </div></div>
+    <div><a href="https://github.com/imrofayel/fylepad/"><div class="text-base inline-block bg-gray-50 hover:bg-white hover:bg-white/80 dark:bg-[#2d3d33] hover:dark:bg-[#1f2920] dark:border-transparent border-gray-100 border backdrop-blur-xl p-2 rounded-xl justify-center items-center text-black cursor-pointer roboto-mono">github.com/imrofayel/fylepad</div></a></div>
+  
+  </div>
 
   </div>
 </template>
