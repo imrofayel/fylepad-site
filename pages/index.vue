@@ -21,7 +21,7 @@
       target="_blank"><img
         src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=491117&theme=neutral"
         alt="fylepad - your perfect note-taking solution! | Product Hunt" style="width: 250px; height: 54px;"
-        width="250" height="54" /></a>
+        width="250" height="54" /></a> <a href="https://startupfa.me/s/fylepad?utm_source=fylepad.vercel.app" target="_blank"><img src="https://startupfa.me/badges/featured-badge.webp" alt="fylepad - Your perfect note-taking solution! | Startup Fame" width="171" height="54" /></a>
 
     <div class="text-lg drop-shadow-sm">fylepad is your savior when other apps are too complex for simple tasks or too
       simple to even
